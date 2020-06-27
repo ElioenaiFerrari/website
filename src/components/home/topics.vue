@@ -1,6 +1,6 @@
 <template>
   <v-layout fluid wrap>
-    <span :class="$theme.textTheme.title">
+    <span :class="$theme.textTheme.title" class="mb-4">
       Como a Juno <br />
       funciona?
     </span>

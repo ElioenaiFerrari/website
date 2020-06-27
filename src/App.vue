@@ -1,12 +1,12 @@
 <template>
   <v-app>
-    <Header />
     <v-main>
-      <transition>
+      <Header />
+      <v-container fluid>
         <transition name="slide" mode="out-in">
           <router-view />
         </transition>
-      </transition>
+      </v-container>
     </v-main>
   </v-app>
 </template>
