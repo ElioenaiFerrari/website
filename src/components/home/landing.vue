@@ -2,7 +2,7 @@
   <v-parallax
     src="https://images.pexels.com/photos/725255/pexels-photo-725255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     contain
-    class="mb-10"
+    class="mb-10 rounded"
   >
     <v-row align="center" justify="start">
       <v-col cols="6">

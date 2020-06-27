@@ -18,7 +18,7 @@
         </span>
       </v-col>
       <v-col cols="6">
-        <v-parallax :src="item.image" height="350" />
+        <v-parallax class="rounded" :src="item.image" height="400" />
       </v-col>
     </v-row>
   </v-layout>
